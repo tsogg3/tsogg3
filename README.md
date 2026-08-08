@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050505,50:6d28d9,100:a855f7&text=SOPHIA%20HONORATO&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050505,50:6d28d9,100:a855f7&text=Pedro%20Miguel&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=C084FC&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;FULL+STACK+DEVELOPER;REACT+%7C+JAVA+%7C+PYTHON;AI+%7C+SOFTWARE+ENGINEERING;WELCOME+TO+MY+CODE+UNIVERSE"/>
 
@@ -8,11 +8,11 @@
 
 ---
 
-## 🤖 SOPHIA AI CORE
+## 🤖 Pedro Miguel' AI CORE
 
 ```bash
 ╭────────────────────────────╮
-│     SOPHIA SYSTEM v2.0     │
+│  Pedro Miguel SYSTEM v2.0  │
 ╰────────────────────────────╯
 
 Initializing system...
@@ -32,9 +32,9 @@ STATUS: ONLINE 🚀
 ## 👩‍💻 About Me
 
 ```javascript
-const Sophia = {
+const Pedro Miguel = {
 
- name: "Sophia Honorato",
+ name: "Pedro Miguel",
 
  role: "Full Stack Developer",
 
@@ -88,15 +88,16 @@ const Sophia = {
 
 ## 🚀 Featured Projects
 
-| 🚀 Project | 💡 Description |
-|---|---|
-| 💄 Divine | Beauty E-commerce |
-| ⚡ Core Sync | Business Dashboard |
-| 🌿 Nutre Care | Eco Makeup Brand |
-| 🌸 Mosaico Rosa | AI + Lovable Project |
-| 🌊 Mar & Brisa | Modern Landing Page |
-| 🎵 Projeto Music | Music Experience |
-| 🌍 Milton Santos | Educational Website |
+| 🚀 Project           | 💡 Description                               |
+| -------------------- | -------------------------------------------- |
+| 🌐 **tsx.lol**       | Modern Biography & Personal Profile Platform |
+| ⚡ **Tsx Core**       | Developer Management Platform                |
+| 🤖 **Tsx AI**        | AI-Powered Developer Assistant               |
+| 📊 **Tsx Analytics** | Advanced Analytics Dashboard                 |
+| 🎮 **Tsx Gaming**    | Gaming Community Platform                    |
+| ☁️ **Tsx Cloud**     | Cloud Storage Platform                       |
+| 🔐 **Tsx Auth**      | Authentication & Identity System             |
+
 
 ---
 
@@ -122,10 +123,6 @@ Never stop learning 🚀
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sophiahonopato&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sophiahonopato&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -153,7 +150,7 @@ Never stop learning 🚀
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sophiahonopato/sophiahonopato/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/arifhaxn/arifhaxn/output/snake-dark.svg"/>
 
 </div>
 
@@ -163,7 +160,7 @@ Never stop learning 🚀
 
 <div align="center">
 
-<a href="https://github.com/sophiahonopato">
+<a href="https://github.com/tsogg3">
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
 </a>
 
